@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Учеба\Знакомство с языками\EXAMPLES\Exaples_001_HelloConsolle\bin\Debug\net6.0\Exaples_001_HelloConsolle.exe
+C:\Users\user\Desktop\Учеба\Знакомство с языками\EXAMPLES\Exaples_001_HelloConsolle\bin\Debug\net6.0\Exaples_001_HelloConsolle.deps.json
+C:\Users\user\Desktop\Учеба\Знакомство с языками\EXAMPLES\Exaples_001_HelloConsolle\bin\Debug\net6.0\Exaples_001_HelloConsolle.runtimeconfig.json
+C:\Users\user\Desktop\Учеба\Знакомство с языками\EXAMPLES\Exaples_001_HelloConsolle\bin\Debug\net6.0\Exaples_001_HelloConsolle.dll
+C:\Users\user\Desktop\Учеба\Знакомство с языками\EXAMPLES\Exaples_001_HelloConsolle\bin\Debug\net6.0\Exaples_001_HelloConsolle.pdb
+C:\Users\user\Desktop\Учеба\Знакомство с языками\EXAMPLES\Exaples_001_HelloConsolle\obj\Debug\net6.0\Exaples_001_HelloConsolle.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учеба\Знакомство с языками\EXAMPLES\Exaples_001_HelloConsolle\obj\Debug\net6.0\Exaples_001_HelloConsolle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Учеба\Знакомство с языками\EXAMPLES\Exaples_001_HelloConsolle\obj\Debug\net6.0\Exaples_001_HelloConsolle.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Учеба\Знакомство с языками\EXAMPLES\Exaples_001_HelloConsolle\obj\Debug\net6.0\Exaples_001_HelloConsolle.AssemblyInfo.cs
+C:\Users\user\Desktop\Учеба\Знакомство с языками\EXAMPLES\Exaples_001_HelloConsolle\obj\Debug\net6.0\Exaples_001_HelloConsolle.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учеба\Знакомство с языками\EXAMPLES\Exaples_001_HelloConsolle\obj\Debug\net6.0\Exaples_001_HelloConsolle.dll
+C:\Users\user\Desktop\Учеба\Знакомство с языками\EXAMPLES\Exaples_001_HelloConsolle\obj\Debug\net6.0\refint\Exaples_001_HelloConsolle.dll
+C:\Users\user\Desktop\Учеба\Знакомство с языками\EXAMPLES\Exaples_001_HelloConsolle\obj\Debug\net6.0\Exaples_001_HelloConsolle.pdb
+C:\Users\user\Desktop\Учеба\Знакомство с языками\EXAMPLES\Exaples_001_HelloConsolle\obj\Debug\net6.0\Exaples_001_HelloConsolle.genruntimeconfig.cache
+C:\Users\user\Desktop\Учеба\Знакомство с языками\EXAMPLES\Exaples_001_HelloConsolle\obj\Debug\net6.0\ref\Exaples_001_HelloConsolle.dll
